@@ -32,6 +32,7 @@ to get brainshop key, follow the steps below
 ## or
 Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/discord-chatbot-glitch)
 Repl: [![Run on Repl.it](https://repl.it/badge/github/TheRealGogeta/Discord-Chatbot)](https://replit.com/@TheRealGogeta/Discord-Chatbot)
+https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com
 
 ### Detailed Installation
 [Youtube](https://www.youtube.com/channel/UCkpN5Xw5EMqoPsfQWKpYYwA)
